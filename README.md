@@ -1,5 +1,6 @@
-##  使用脚手架
+##  开始
 `git clone https://github.com/sun-hui/react-redux-reactRouter-webpack4-cli.git`
+
 `cd react-redux-reactRouter-webpack4-cli`
 ```
 npm start //  启动本地
