@@ -2,6 +2,8 @@
 `git clone https://github.com/sun-hui/react-redux-reactRouter-webpack4-cli.git`
 
 `cd react-redux-reactRouter-webpack4-cli`
+
+`npm install`
 ```
 npm start //  启动本地
 npm run dev  //  启动本地
